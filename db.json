@@ -1,0 +1,54 @@
+{
+  "video": [],
+  "category": [
+    {
+      "id": "1",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "adfad",
+          "url": "adf",
+          "embededLink": "https://www.youtube.com/embed/Vijx5tRBCeg"
+        },
+        {
+          "id": "5",
+          "caption": "Animal",
+          "url": "https://cdn.123telugu.com/content/wp-content/uploads/2023/11/Animal-5.jpg",
+          "embededLink": "https://www.youtube.com/embed/HrnrqYxYrbk"
+        }
+      ],
+      "categoryName": "Malayalam Songs"
+    },
+    {
+      "id": "2",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Jigrathanda ",
+          "url": "https://th-i.thgim.com/public/entertainment/movies/r8vul8/article66853356.ece/alternates/FREE_1200/Jigarthanda%20DoubleX.jpg",
+          "embededLink": "https://www.youtube.com/embed/IsN-fqGzpHg"
+        }
+      ],
+      "categoryName": "Tamil Songs"
+    },
+    {
+      "id": "3",
+      "allVideos": [],
+      "categoryName": "Hindhi Songs"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Jigrathanda ",
+      "embededLink": "https://www.youtube.com/embed/IsN-fqGzpHg",
+      "timeStamp": "12/2023, 11:52:30 AM",
+      "id": 1
+    },
+    {
+      "caption": "Jigrathanda ",
+      "embededLink": "https://www.youtube.com/embed/IsN-fqGzpHg",
+      "timeStamp": "12/2023, 11:35:57 AM",
+      "id": 2
+    }
+  ]
+}
